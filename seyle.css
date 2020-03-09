@@ -3,7 +3,9 @@
 }
 
 #foo{
-  color: aqua;
+  color: #bbffbb;
+  font-size: 70px; 
+  background-color:seagreen ;
 }
 
 #bar{
